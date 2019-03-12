@@ -1,3 +1,5 @@
+[![Actions Status](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/actions/bin)](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/results/actions/bin)
+
 # bin
 
 GitHub collection of useful utilities for interacting with GitHub Actions.
